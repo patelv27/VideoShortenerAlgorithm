@@ -1,0 +1,2 @@
+# VideoShortenerAlgorithm
+Shortening Lecture Videos 
